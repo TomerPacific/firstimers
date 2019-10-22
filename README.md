@@ -46,3 +46,11 @@ A repository to allow people to try out the core concepts of Git
 - Woah! It lookes like we have a problem. We need to set up a remote upstream to push to
 
 ![Push Upstream](https://github.com/TomerPacific/firstimers/blob/master/assets/firstimers-push-upstream-2.jpg?raw=true)
+
+- If we head back to the repository, we will see this notification :
+
+![Pull Request Message](https://github.com/TomerPacific/firstimers/blob/master/assets/firstimers-pr.jpg?raw=true)
+
+- We can now open a **Pull Request** by clicking the button Compare & pull request
+
+![Pull Request](https://github.com/TomerPacific/firstimers/blob/master/assets/firstimers-pr-open.jpg?raw=true)
