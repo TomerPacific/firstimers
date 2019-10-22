@@ -19,14 +19,30 @@ A repository to allow people to try out the core concepts of Git
 
 - Before we can make any changes, we must create a branch in which our changes will be pushed to. To do this run this command : ```git checkout -b YOUR_BRANCH_NAME```
 
+![Checkout](https://github.com/TomerPacific/firstimers/blob/master/assets/firstimers-checkout.jpg?raw=true)
+
 - Here you will find a file named ```change_me.md```. Open this file in a text editor and add a new line with text to it
 
 - Head back over to the terminal and execute the ```git status``` command
 
+![Status Before Add](https://github.com/TomerPacific/firstimers/blob/master/assets/firstimers-status.jpg?raw=true)
+
 - Now you can see that the ```change_me.md``` file has been modified. To add it to our commit, execute ```git add change_me.md```
+
+![Add](https://github.com/TomerPacific/firstimers/blob/master/assets/firstimers-add.jpg?raw=true)
 
 - If you execute ```git status``` again, you will now see that the file is staged
 
+![Status After Add](https://github.com/TomerPacific/firstimers/blob/master/assets/firstimers-status-after-add.jpg?raw=true)
+
 - Execute the ```git commit -m "Your commit message"``` to commit your changes
 
+![Commit](https://github.com/TomerPacific/firstimers/blob/master/assets/firstimers-commit.jpg?raw=true)
+
 - Finally we can execute ```git push```
+
+![Push Before Upstream](https://github.com/TomerPacific/firstimers/blob/master/assets/firstimers-push-upstream.jpg?raw=true)
+
+- Woah! It lookes like we have a problem. We need to set up a remote upstream to push to
+
+![Push Upstream](https://github.com/TomerPacific/firstimers/blob/master/assets/firstimers-push-upstream-2.jpg?raw=true)
