@@ -18,3 +18,13 @@ A repository to allow people to try out the core concepts of Git
 - Executing the ```ls``` command, you will notice there are two directories: assets and src. Cd into the src directory
 
 - Here you will find a file named ```change_me.md```. Open this file in a text editor and add a new line with text to it
+
+- Head back over to the terminal and execute the ```git status``` command
+
+- Now you can see that the ```change_me.md``` file has been modified. To add it to our commit, execute ```git add change_me.md```
+
+- If you execute ```git status``` again, you will now see that the file is staged
+
+- Execute the ```git commit -m "Your commit message"``` to commit your changes
+
+- Finally we can execute ```git push```
