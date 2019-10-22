@@ -17,6 +17,8 @@ A repository to allow people to try out the core concepts of Git
 
 - Executing the ```ls``` command, you will notice there are two directories: assets and src. Cd into the src directory
 
+- Before we can make any changes, we must create a branch in which our changes will be pushed to. To do this run this command : ```git checkout -b YOUR_BRANCH_NAME```
+
 - Here you will find a file named ```change_me.md```. Open this file in a text editor and add a new line with text to it
 
 - Head back over to the terminal and execute the ```git status``` command
