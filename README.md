@@ -3,8 +3,6 @@ A repository to allow people to try out the core concepts of Git
 
 ## Where to Begin
 
-- :D :D :D
-
 -  **Fork** this repository
 
 ![Fork](https://github.com/TomerPacific/firstimers/blob/master/assets/fork.jpg?raw=true)
