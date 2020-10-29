@@ -3,7 +3,7 @@
 
 1. first step to contributing to open source
 
-Hi, my name is Tamar :)
+Hi, my name is Talia!
 
 Hi, my name is Mark :)
 
@@ -31,4 +31,5 @@ wow
 
 I'm the final line!
 
-Shiran's last line
+
+Now I'm the final line
