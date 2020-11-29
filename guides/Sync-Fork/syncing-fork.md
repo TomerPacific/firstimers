@@ -4,7 +4,9 @@
 
 So sometime ago you forked someone elses repository. Now you need to make sure your forked repository has the latest changes from the original repository.
 
-### Head over to your project directory in the terminal
+## Steps
+
+### Head over to the forked repository directory in the terminal
 
 ### Check that you have an upstream remote set up using `git remote -v`
 
