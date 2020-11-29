@@ -6,10 +6,11 @@ So sometime ago you forked someone elses repository. Now you need to make sure y
 
 ## Steps
 
-### Head over to the forked repository directory in the terminal
+- **Head over to the forked repository directory in the terminal**
 
-### Check that you have an upstream remote set up using `git remote -v`
+- **Check that you have an upstream remote set up using `git remote -v`**
+![Remote](https://github.com/TomerPacific/firstimers/blob/master/assets/gitRemote.jpg?raw=true)
 
-### If you don't see an upstream to the original repository, then you need to add one. You can do so by running: `git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git`
+- **If you don't see an upstream to the original repository, then you need to add one. You can do so by running: `git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git`**
 
-### Run the command `git fetch upstream`
+- **Run the command `git fetch upstream`**
