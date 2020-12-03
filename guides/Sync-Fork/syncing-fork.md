@@ -19,6 +19,6 @@ So sometime ago you forked someone elses repository. Now you need to make sure y
 
 - **Run the command `git fetch upstream`**
 
-- **Check out to the default branch of the repository (either main or master) **
+- **Check out to the default branch of the repository (either main or master)**
 
 - **Merge the changes from the upstream's default branch (main or master) to the local default branch (main or master)**
