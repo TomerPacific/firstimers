@@ -23,6 +23,6 @@ The steps below will show how one can do that using the repository **authpass** 
 - **Run the command `git fetch upstream`**
 ![FetchUpstream](https://github.com/TomerPacific/firstimers/blob/master/assets/fetchUpstream.jpg?raw=true)
 
-- **Check out to the default branch of the repository (either main or master)**
+- **Check out to the default branch of the repository (either main or master) using `git checkout master`**
 
-- **Merge the changes from the upstream's default branch (main or master) to the local default branch (main or master)**
+- **Merge the changes from the upstream's default branch (main or master) to the local default branch (main or master) using `git merge upstream/master`**
