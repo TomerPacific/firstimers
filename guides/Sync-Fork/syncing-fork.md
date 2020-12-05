@@ -18,3 +18,7 @@ So sometime ago you forked someone elses repository. Now you need to make sure y
 - **After running the above command, run `git remote -v` again to see that the upstream remotes have been added**
 
 - **Run the command `git fetch upstream`**
+
+- **Check out to the default branch of the repository (either main or master)**
+
+- **Merge the changes from the upstream's default branch (main or master) to the local default branch (main or master)**
