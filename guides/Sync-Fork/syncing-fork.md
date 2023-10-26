@@ -21,7 +21,6 @@ The steps below will show how one can do that using the repository **authpass** 
 - **If you don't see an upstream to the original repository, then you need to add one. You can do so by running: `git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git`**
 
 - **Using authpass repository as an example, the command would look like this: `git remote add upstream https://github.com/authpass/authpass.git`**
-
 ![Upstream](https://github.com/TomerPacific/firstimers/blob/master/assets/addUpstream.jpg?raw=true)
 
 - **After running the above command, run `git remote -v` again to see that the upstream remotes have been added**
@@ -44,4 +43,5 @@ The steps below will show how one can do that using the repository **authpass** 
 ![SyncFork](https://github.com/TomerPacific/firstimers/blob/master/assets/sync_github_1.jpg?raw=true)
 
 - **Press the green button that says Update branch**
+
 ![SyncForkUpdateBranch](https://github.com/TomerPacific/firstimers/blob/master/assets/sync_github_2.jpg?raw=true)
